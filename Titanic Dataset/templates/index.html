@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="UTF-8">
+      <title>Titanic Survival ML API</title>
+      <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<div class="login">
+<h1><b>Titanic Survival Prediction</b></h1>
+<p>Let's See Would You Have Survived Titanic Disaster</p>
+<form action="{{url_for('predict')}}"method="post">
+ 
+    
+    
+    <input type="text" placeholder="Class: (Upper-1, Middle-2, Lower-3)" name="Pclass" required />
+    
+    
+    <input type="text" placeholder="Sex (Male-1 / Female-0) " name="Sex" required />
+    
+    
+    <input type="text" placeholder="Age" name="Age" required />
+    
+    
+    <input type="text" placeholder="No. of Siblings with you on Titanic" name="SibSp" required />
+    
+    
+    <input type="text" placeholder="No. of Parents with you on Titanic" name="Parch" required />
+    
+
+    <input type="text" placeholder="Fare Price" name="Fare" required />
+    
+   
+    <input type="text" placeholder="Embarked (Southampton-1, Cherbourg-2, Queenstown-3) " name="Embarked" required />
+  	  
+    
+
+    <button type="submit" class="registerbtn">Predict</button>
+ 
+</form>
+
+{{prediction_text}}
+</div>
+</body>
+</html>
+
