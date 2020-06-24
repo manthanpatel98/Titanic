@@ -30,6 +30,7 @@
 * But, I wanted to know How model works, if I include other insignificant columns also, so i have taken **'Pclass'**, **'Sex'**, **'Age'**, **'SibSp'**, **'Parch'**, **'Fare'**, **'Embarked'**.
 
 ![Feature Selection](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Screenshot%20(107).png)
+
 ---   
 ### **3,4&5> Model Selection**, **Model Creation**, **Testing**
     
