@@ -39,5 +39,5 @@
 * Among these, K-NN gave better results.
 * For this I have tried all the k values **till 500** and **k=251** gave better results.
 ---
-* Finally, Even if I have used **'Pclass'**, **'Sex'**, **'Age'**, **'SibSp'**, **'Parch'**, **'Fare'**, **'Embarked'** columns for Exploring purpose, I manged to score the Rank on Kaggle.
-* For detailed look at Project, go to **[Alcohol-Quality.ipynb](https://github.com/manthanpatel98/Alcohol-Quality-Checker/blob/master/Alcohol-Quality.ipynb)** and **[model.py](https://github.com/manthanpatel98/Alcohol-Quality-Checker/blob/master/model.py)**
+* Finally, Even if I have used **'Pclass'**, **'Sex'**, **'Age'**, **'SibSp'**, **'Parch'**, **'Fare'**, **'Embarked'** columns for Exploring purpose, I managed to score the Rank on Kaggle.
+* For detailed look at Project, go to **[Titanic.ipynb](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/Titanic.ipynb)** and **[model.py](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/model.py)**
