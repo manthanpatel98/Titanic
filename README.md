@@ -4,7 +4,7 @@
 ### **Web APP on Heroku**
 <img src="https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic-Disaster.gif" width=700 height=700>
 
-**[The Project on Heroku](https://titanicdisaster.herokuapp.com/)**
+#### **[The Project on Heroku](https://titanicdisaster.herokuapp.com/)**
 
 ---
 
