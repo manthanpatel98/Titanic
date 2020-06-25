@@ -2,15 +2,21 @@
 ## Famouse Titanic Project that predicts that a person survived the disaster or not.
 ---
 ### **Web APP on Heroku**
-![Project](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic-Disaster.gif)
+<img src="https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic-Disaster.gif" width=700 height=700>
+
 **[The Project on Heroku](https://titanicdisaster.herokuapp.com/)**
+
 ---
+
 ## The Dataset
 ![](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Screenshot%20(108).png)
+
 ### **Dataset**
 **[Train Dataset](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/train.csv)**
 **[Test Dataset](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/test.csv)**
+
 ---
+
 ## **Overview**
 * The Dataset has **"PassengerId"**, **"Survived"**, **"Pclass"**, **"Name"**, **"Sex"**, **"Age"**, **"SibSp"**, **"Parch"**, **"Ticket"**, **"Fare"**, **"Cabin"**, **"Embarked"** columns. It has total around **1300 rows** and **12 columns**.
 * From the Dataset, we have to predict the **Survived** column: 
