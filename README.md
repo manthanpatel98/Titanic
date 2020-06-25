@@ -10,7 +10,13 @@
 ### **Dataset**
 **[Train Dataset](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/train.csv)**
 **[Test Dataset](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/test.csv)**
-
+---
+## **Overview**
+* The Dataset has **"PassengerId"**, **"Survived"**, **"Pclass"**, **"Name"**, **"Sex"**, **"Age"**, **"SibSp"**, **"Parch"**, **"Ticket"**, **"Fare"**, **"Cabin"**, **"Embarked"** columns. It has total around **1300 rows** and **12 columns**.
+* From the Dataset, we have to predict the **Survived** column: 
+* **ExtraTreesClassifier** has been used for **Feature Selection**.
+* I have used **Count/Frequency Encoding** Technique for **Feature Encoding**.
+* I have applied many different algorithms but at the end, **KNN** gave better results.
 ---
 ## **Machine Learning Pipelines:**
 ---
