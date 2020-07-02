@@ -2,7 +2,7 @@
 ## Famouse Titanic Project that predicts that a person survived the disaster or not.
 ---
 ### **Web APP on Heroku**
-<img src="https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic-Disaster.gif" width=60% height=60%>
+<img src="https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic-Disaster.gif" width=60% height=70%>
 
 ### **[The Project on Heroku](https://titanicdisaster.herokuapp.com/)**
 
