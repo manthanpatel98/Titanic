@@ -2,7 +2,7 @@
 ## Famouse Titanic Project that predicts that a person survived the disaster or not.
 ---
 ### **Web APP on Heroku**
-<img src="https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic-Disaster.gif" width=60% height=70%>
+<img src="https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic-Disaster.gif" width="600">
 
 ### **[The Project on Heroku](https://titanicdisaster.herokuapp.com/)**
 
@@ -27,7 +27,7 @@
 ---
 ## **Machine Learning Pipelines:**
 ---
-### **1> Feature Engineering:**
+### **1 Feature Engineering:**
   
 **a> Handling Missing Values:**
 * Here, In this data, columns **"Age"**, **"Cabin"**, **"Embarked"** has **Null** values. Column **"Cabin"** has way too many Null Values that it is not prefered to replace them. Hence, I dropped the Column. 
@@ -38,14 +38,14 @@
 **c> Feature Scaling & Feature Transformation:**    
 * Here, I have used **MinMaxScalar** for scaling the data.
 ---    
-### **2> Feature Selection:**    
+### **2 Feature Selection:**    
 * There are various techniques for this but here i have used **ExtraTressClassifier**. Here, ExtraTreesClassifier Showed **"Sex"**, **"Age"**, **"Fare"**, **"Embarked"** as important columns.
 * But, I wanted to know How model works, if I include other insignificant columns also, so i have taken **'Pclass'**, **'Sex'**, **'Age'**, **'SibSp'**, **'Parch'**, **'Fare'**, **'Embarked'**.
 
 ![Feature Selection](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Screenshot%20(107).png)
 
 ---   
-### **3,4&5> Model Selection**, **Model Creation**, **Testing**
+### **3,4&5 Model Selection**, **Model Creation** and **Testing**
     
 * Here, Initially, I have tested different Algorithms by making **Train-Test Split with Training Data**, In that **"KNN"** came across as better algorithm as compare to others. So, I have used KNN with **proper Training and Testing Dataset**. 
     
