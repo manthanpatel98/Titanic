@@ -1,4 +1,4 @@
-# **Titanic**
+# **Titanic Disaster**
 ### Famouse Titanic Project that predicts that a person survived the disaster or not.
 
 <img src="https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic.jpg" width=600>
