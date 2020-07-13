@@ -1,6 +1,10 @@
 # **Titanic**
-## Famouse Titanic Project that predicts that a person survived the disaster or not.
+### Famouse Titanic Project that predicts that a person survived the disaster or not.
+
+<img src="https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic.jpg" width=600>
+
 ---
+
 ### **Web APP on Heroku**
 <img src="https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic-Disaster.gif" width="600">
 
